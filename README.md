@@ -1,7 +1,7 @@
 # Change-Microsoft-System-Font
 - Open NotePad
 - Copy & paste <a href="https://github.com/yhrjfj/Change-Microsoft-System-Font/blob/main/Font-Name.txt">this code</a>
-- Chnage font name in
+- For adding new font change name in
   <pre><code class="language-bash">
         "Segoe UI"= "RobotoMono-Regular"
     </code></pre>
